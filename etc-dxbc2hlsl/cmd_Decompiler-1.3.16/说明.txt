@@ -1,0 +1,2 @@
+renderdoc使用说明:https://zhuanlan.zhihu.com/p/649925129
+exe下载位置:https://github.com/bo3b/3Dmigoto/releases
